@@ -45,6 +45,12 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Explore the Swagger Docs
+
+
+[http://localhost:3004/api](http://localhost:3004/api)
+
+
 ## Test
 
 ```bash
